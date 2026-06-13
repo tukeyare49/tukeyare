@@ -15,8 +15,8 @@
 - 🆘 I'm looking for help with **advanced React patterns**
 - 🌱 I'm currently learning **React Native**
 - 💬 Ask me about **React, Vue and JavaScript**
-- 📫 How to reach me: **[Ku qor Email-kaaga Halkan]**
-- 📁 All of my projects are available at: **https://github.com/[Ku qor Username-kaaga]**
+- 📫 How to reach me: **[TUKEYARE49@GMAIAL]**
+- 📁 All of my projects are available at: **https://github.com/[ABDULAHI ABDIFATAH]**
 
 ### 😄 Fun Fact
 I think I am funny
@@ -34,9 +34,9 @@ I think I am funny
 | **React Component Library** | Reusable React components | 📦 In Development | [View Project](#) |
 
 ## 🤝 Connect With Me
-- **GitHub:** @[Ku qor Username-kaaga]
-- **LinkedIn:** [Ku qor Magacaaga LinkedIn-ka]
-- **Instagram:** [Ku qor Galkaaga Instagram-ka]
+- **GitHub:** @[TUKEYARE]
+- **LinkedIn:** [TUKEYARE49@GMAIL]
+- **Instagram:** [TUKEYARE]
 
 ## 🎯 Goals for 2026
 - [x] Start GitHub Profile README
